@@ -188,15 +188,26 @@ nav{
 } 
 .journal-head h2{
 	              text-align:center;
-                  padding-top:2rem;				  
+				  font-size:2rem;
+                  padding-top:5rem;				  
 	
 }
-.journal-head{
-	            padding:3rem orem;
+.journal1 h2{
+				  letter-spacing:0.2rem;
+				  font-size:1rem;
+                  padding-top:1rem;				  
+	
+}
+.journal1 p{
+				  font-size:1rem;
+				  letter-spacing:0.1rem;
+				  color:#999999;
+                  padding-top:1rem;				  
+	
 }
 .journal1{
 	        display:flex;
-			margin:7rem;
+			margin:4rem 7rem;
 	
 }
 .journal1 div img{
@@ -211,5 +222,93 @@ nav{
 .journal{
 	      background-color:#F7F7F7;
 		  padding:3rem orem;
+	
+}
+.form1{
+	    display:flex;
+	
+}
+.form{
+	   margin:10rem;
+	   backgorund-color:#FFFFFF;
+	
+	
+}
+.form3{
+	     margin-left:20rem;
+		 line-height:1rem;
+		 padding-bottom:2rem;
+	
+}
+.form3 input{
+	          padding:1rem;
+			  margin-top:1rem;
+			  
+}
+.form3 .name{
+	          width:50%;
+	
+}
+.form3 .email{
+	          width:50%
+	
+}
+.form3 .subject{
+	            width:100%
+	
+}
+.form3 .message{
+	            width:100%;
+			    margin-top:1rem;
+	
+}
+.form3 .btn{
+			  margin-top:1rem;
+			  border:1px solid black;
+			  width:100%;
+			  background-color:#292929;
+			  color:white;
+	          padding:1rem;
+			  font-size:1rem;
+}
+.form2 h2{
+	       font-size:2rem;
+		   font-family:sans-serif;
+		   padding-bottom:1rem;
+	
+}
+.form2 p{
+	      font-size:1rem;
+		  font-family:sans-serif;
+		  line-height:2rem;
+		  color:#9999A5;
+	
+
+	
+	
+}
+.list2 li{
+	           list-style:none;
+			   display:inline-block;
+			   color:white;
+	
+}
+.list2 li a{
+	        color:grey;
+		    font-size:1.5rem;
+			margin-left:1rem;
+}
+footer{
+	     text-align:center;
+	
+}
+footer p{
+	       padding-top:1rem;
+		    color:#9999A5;
+	       line-height:2rem;
+	
+}
+footer span{
+	          color:black;
 	
 }
